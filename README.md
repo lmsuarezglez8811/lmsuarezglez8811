@@ -1,7 +1,7 @@
 <!--### Hi there -->
 <div align="center">
 <h1 align="center">¡Hola! 👋 Mi nombre es Luis Manuel.</h1>
-Soy ingeniero de software profesional desde hace más de nueve años.
+Soy ingeniero de software profesional y un apasionado de la tecnología y en especial el desarrollo web desde hace más de nueve años.
 </div>
 
 <!--
@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 
 
 ## Sobre mi
-Mi nombre es Luis Manuel Suárez González, soy desarrollador web full-stack, desarrollador de aplicaciones Android y administrador de sistemas Linux desde hace más de 9 años. Me gustaría retribuir de alguna manera todo el conocimiento que gracias a la comunidad he adquirido de forma gratuita en el transcurso del tiempo.
+Mi nombre es Luis Manuel Suárez González. Me considero un desarrollador todoterreno ya que en el transcurso de mi carrera profesional de más de 9 años he tenido que abordar proyectos de diversa complejidad valiéndome de diferentes tecnologías. A pesar de ello mi gran pasión son las soluciones de E-Commerce y las aplicaciones para dispositivos Android.
+Creo en el valor de la comunidad y el trabajo en equipo para construir productos software de calidad.
 - 💻 Desarrollador Web Full Stack con experiencia en integración en sistemas de pago, carritos de compra, CMS, tiendas virtuales y E-commerce 
-- 📲 Android Mobile Developer
+- 📲 Android Mobile Developer enfocado en la usabilidad y el diseño atractivo de aplicaciones móviles que satisfagan las necesidades de los usuarios
 - 🐧🖥️ Linux SysAdmin
 <br>
 
@@ -57,7 +58,7 @@ Mi nombre es Luis Manuel Suárez González, soy desarrollador web full-stack, de
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)]()
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)]()
+[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)]()
 [![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]()
 
